@@ -3,8 +3,6 @@
 
 langSmart is an intermediate program written in Python that let's you learn any language via flash cards. This program was completed on day 31 of The complete python bootcamp | #100DaysOfCode by AppBrewery
 
-This program was developed per the complete Python bootcamp by Angela Yu | AppBrewery 
-
 ## Concepts Practised
 
 - Reading and writing JSON data
