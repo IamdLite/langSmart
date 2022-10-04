@@ -13,3 +13,4 @@ This program was developed per the complete Python bootcamp by Angela Yu | AppBr
 - Data collection and manipulation using the Pandas Library
 
 ## LangSmart [Language Smart]
+![langSmart](./images/langSmart.gif)

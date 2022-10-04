@@ -19,7 +19,6 @@ try:
 except FileNotFoundError:
     original_data = pandas.read_csv("data/french_words.csv")
     words_to_learn = original_data.to_dict(orient="records")
-
 else:  
     words_to_learn = data.to_dict(orient = "records")
 
